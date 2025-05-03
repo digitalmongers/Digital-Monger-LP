@@ -1,0 +1,131 @@
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 575px){
+    .btn-outer {
+        position: fixed;
+        background-color: #ffffff;
+        padding: 5px 0px;
+        bottom: 0px;
+        width: 100%;
+        left: 0px;
+        justify-content: center !important;
+    }
+    .btn-primary, .whatsapplogo {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .bannerContent h1 {
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 38px;
+        text-align: center;
+    }
+    .letsTalk {
+        border: 1px solid #198754;
+        background-color: #198754;
+        padding: 8px 18px;
+        font-size: 14px;
+        color: #ffffff;
+    }
+    .bannerForm {
+        padding: 20px;
+        border-radius: 7px;
+    }
+    .bannerForm h3 {
+        font-size: 16px;
+        font-weight: 600;
+        color: #0E0E2C;
+        line-height: 22px;
+    }
+    .bannerForm p {
+        color: #A0A4AB;
+        font-size: 14px;
+    }
+    .brandingSec h3 {
+        font-size: 16px;
+    }
+    .brandingSec h2 {
+        font-size: 22px;
+        font-weight: 700;
+    }
+    .card1 h5 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .card2 h5 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .card3 h5 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .card4 h5 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .card5 h5 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .card6 h5 {
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .contactFormBtn button {
+        font-size: 17px;
+        font-weight: 600;
+    }
+    .contactFormBtn button:hover {
+        background-color: #3b72fef1;
+        color: white;
+    }
+    .AboutUsSection h3 {
+        font-size: 22px;
+        margin-top: 20px;
+        font-weight: 700;
+        color: #0E0E2C;
+    }
+    .AboutUsSection p {
+        font-size: 18px;
+        color: #A0A4AB;
+        line-height: 28px;
+    }
+    .AboutUsSection img {
+        display: none;
+    }
+    .AboutUsSection h3 {
+        font-size: 22px;
+        margin-top: 20px;
+        font-weight: 700;
+        color: #0E0E2C;
+    }
+    .aboutUs {
+        font-size: 16px;
+        font-weight: 600;
+        color: #3B71FE;
+    }
+    .ourProcess {
+        font-size: 16px;
+        font-weight: 600;
+        color: #3B71FE;
+    }
+    .ourProcessSection h3 {
+        font-size: 22px;
+        margin-top: 20px;
+        font-weight: 700;
+        color: #0E0E2C;
+    }
+    .figContainer img {
+        display: none;
+    }
+    .ourProcessSection img {
+        display: none;
+        padding: 0px;
+    }
+}
+
